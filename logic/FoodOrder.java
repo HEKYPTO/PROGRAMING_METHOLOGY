@@ -1,4 +1,4 @@
-package PROG_METH.logic;
+//package PROG_METH.logic;
 //package logic; 
 //Could not find package logic in packaged file
 
@@ -20,6 +20,11 @@ public class FoodOrder {
 	// START CODE HERE
 	public FoodOrder() {
 		description = "Hainanese Chicken rice";
+		this.hasChicken = true;
+		this.hasVegetable = true;
+		this.hasExtraChicken = false;
+		this.hasExtraRice = false;
+		this.price = 40;
 	}
 	// END CODE HERE
 
@@ -32,7 +37,6 @@ public class FoodOrder {
 		return calculatePrice(hasChicken, hasVegetable, hasExtraChicken, hasExtraRice);
 	}
 	private int calculatePrice(boolean hasChicken, boolean hasVegetable, boolean hasExtraChicken, boolean hasExtraRice) {
-		int price = 40;
 		if (!hasChicken) {
 			price -= 10;
 		}
