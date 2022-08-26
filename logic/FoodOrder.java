@@ -1,4 +1,4 @@
-package PROG_METH.logic;
+package logic;
 //package logic; 
 //Could not find package logic in packaged file
 
