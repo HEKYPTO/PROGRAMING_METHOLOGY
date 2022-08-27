@@ -73,7 +73,7 @@ public class FoodOrder {
 	@Override
 	public boolean equals(Object other) {
 		// START CODE HERE
-		FoodOrder o = (FoodOrder) other;
+		FoodOrder o = new FoodOrder();
 		if (this.price == o.price) {
 			return true;
 		}
