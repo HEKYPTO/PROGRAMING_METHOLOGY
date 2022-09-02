@@ -7,19 +7,19 @@ public class UnitCard {
 	private int health;
 	private String flavorText;
 	
-	//constructor
+	//Constructor
 	public UnitCard(String name, int bloodCost, int power, int health, String flavorText) {
-		this.name = name;
-		this.bloodCost = bloodCost;
-		this.power = power;
-		this.health = health;
-		this.flavorText = flavorText;
+		setName(name);
+		setBloodCost(bloodCost);
+		setPower(power);
+		setHealth(health);
+		setFlavorText(flavorText);
 	}
 	
 	//Methods
 	//Setter
-	public void setName(String Name) {
-		this.name = Name.isBlank() ? Name: "Creature"; 
+	public void setName(String name) {
+		this.name = name.isBlank() ? "Creature": name; 
 	}
 	public void setBloodCost(int bloodCost) {
 		this.bloodCost = (bloodCost < 0) ? 0: bloodCost;
@@ -27,7 +27,7 @@ public class UnitCard {
 	public void setPower(int power) {
 		this.power = (power < 0) ? 0: power;
 	}
-	//write?
+	
 	public void setHealth(int health) {
 		this.health = (health < 1) ? 1: health; 
 	}
@@ -45,24 +45,19 @@ public class UnitCard {
 	public int getPower() {
 		return power;
 	}
-	//write?
 	public int getHealth() {
 		return health;
 	}
-	//
 	public String getFlavorText() {
 		return flavorText;
 	}
+	//
 	
 	public boolean equals(UnitCard other) {
-		if (this.name.equals(other.name)) {
-			return true;
-		}
-		return false;
+		return name.equals(other.name);
 	}
-	//
+	
 	public String toString() {
 		return this.getName() + " (POW: " + this.getPower() + ", HP: " + this.getHealth() + ")";
 	}
-	
 }

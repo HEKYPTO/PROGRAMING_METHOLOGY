@@ -9,11 +9,21 @@ import java.io.FileNotFoundException;
 public class CardUtil {
 	
 	public static boolean isExistsInList(UnitCard card, ArrayList<UnitCard> list) {
-		return list.contains(card);
+		for (UnitCard unitCard : list) {
+			if (unitCard.equals(card)) {
+				return true;
+			}
+		}
+		return false;
 	}
 	
 	public static boolean isExistsInList(UnitDeck deck, ArrayList<UnitDeck> list) {
-		return list.contains(deck);
+		for (UnitDeck unitDeck : list) {
+			if (unitDeck.equals(deck)) {
+				return true;
+			}
+		}
+		return false;
 	}
 	
 	public static boolean cardExistsInDeckList(ArrayList<UnitDeck> deckList, UnitCard cardToTest) {

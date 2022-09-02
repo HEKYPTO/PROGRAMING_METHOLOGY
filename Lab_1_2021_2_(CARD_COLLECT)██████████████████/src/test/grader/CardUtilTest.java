@@ -56,8 +56,8 @@ public class CardUtilTest {
 		assertFalse(CardUtil.isExistsInList(uc1, cardList));
 		assertFalse(CardUtil.isExistsInList(uc5, cardList));
 		
-		cardList.add(uc5);
-		cardList.remove(uc2);
+		cardList.add(uc2);
+		cardList.remove(uc5);
 		
 		assertFalse(CardUtil.isExistsInList(uc5, cardList));
 		assertTrue(CardUtil.isExistsInList(uc2, cardList));

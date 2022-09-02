@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab 1 2022-1 (Card Collector) toStudent/src"/>
+	<classpathentry kind="output" path="Lab 1 2022-1 (Card Collector) toStudent/bin"/>
+</classpath>

@@ -9,8 +9,8 @@ import java.io.FileNotFoundException;
 public class CardUtil {
 	
 	public static boolean isExistsInList(UnitCard card, ArrayList<UnitCard> list) {
-		for (UnitCard element: list) {
-			if (element.equals(card)) {
+		for (UnitCard unitCard : list) {
+			if (unitCard.equals(card)) {
 				return true;
 			}
 		}
@@ -18,8 +18,8 @@ public class CardUtil {
 	}
 	
 	public static boolean isExistsInList(UnitDeck deck, ArrayList<UnitDeck> list) {
-		for (UnitDeck element: list) {
-			if (element.equals(deck)) {
+		for (UnitDeck unitDeck : list) {
+			if (unitDeck.equals(deck)) {
 				return true;
 			}
 		}

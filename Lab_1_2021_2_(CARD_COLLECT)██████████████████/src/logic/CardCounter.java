@@ -7,8 +7,8 @@ public class CardCounter {
 	
 	//Constructors
 	public CardCounter(UnitCard card, int count) {
-		this.card = card;
-		this.count = count;
+		setCard(card);
+		setCount(count);
 	}
 	
 	//Methods
