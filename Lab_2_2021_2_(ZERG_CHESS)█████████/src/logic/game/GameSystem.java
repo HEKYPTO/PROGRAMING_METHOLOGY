@@ -92,14 +92,11 @@ public class GameSystem {
 	public BaseUnit promote(BaseUnit baseUnit, int choice) {
 		switch (choice) {
 			case 0:
-				BaseUnit self1 = new MeleeUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
-				return self1;
+				return (BaseUnit) new MeleeUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
 			case 1:
-				BaseUnit self2 = new RangeUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
-				return self2;
+				return (BaseUnit) new RangeUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
 			case 2:
-				BaseUnit self3 = new FlyingUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
-				return self3;
+				return (BaseUnit) new FlyingUnit(baseUnit.getColumn(), baseUnit.getRow(), baseUnit.isWhite(), baseUnit.getName());
 			default:
 				return baseUnit;
 		}
