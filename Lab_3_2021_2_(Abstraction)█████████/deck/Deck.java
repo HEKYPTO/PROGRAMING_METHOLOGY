@@ -91,5 +91,4 @@ public class Deck {
 	}
 
 	/* GETTERS & SETTERS */
-
 }
