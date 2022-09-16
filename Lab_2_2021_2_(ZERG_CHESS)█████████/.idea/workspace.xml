@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="763bec8e-5320-44bc-a929-78515993c303" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logic/game/GameSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/game/GameSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/unit/FlyingUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/unit/FlyingUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +80,8 @@
       <workItem from="1663054905776" duration="616000" />
       <workItem from="1663096076947" duration="692000" />
       <workItem from="1663174267311" duration="587000" />
+      <workItem from="1663182586603" duration="388000" />
+      <workItem from="1663295511475" duration="1499000" />
     </task>
     <servers />
   </component>
