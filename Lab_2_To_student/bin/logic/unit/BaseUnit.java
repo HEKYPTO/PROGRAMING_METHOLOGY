@@ -7,9 +7,9 @@ public class BaseUnit {
     private int column;
     private boolean isWhite;
     private String name;
-    protected int hp;
-    protected int power;
-    protected boolean isFlying;
+    private int hp;
+    private int power;
+    private boolean isFlying;
 
     public BaseUnit(int startColumn, int startRow, boolean isWhite, String name) {
         setColumn(startColumn);

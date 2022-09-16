@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "test-lib/**/*.jar"
+        ],
+        "exclude": [
+            "lib/junit-4.13.2.jar"
+        ]
+    },
+    "maven.view": "flat"
+}
