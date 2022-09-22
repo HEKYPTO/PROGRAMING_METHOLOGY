@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="763bec8e-5320-44bc-a929-78515993c303" name="Changes" comment="">
+    <list default="true" id="3cad0043-b5c7-47ad-99bd-de76bc51b957" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logic/unit/FlyingUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/unit/FlyingUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,77 +10,109 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Eg13P1r9u7goJypZYpiNqdbFyL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2EpouALBsA092LoS6LW3ryPYsqC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zoonyanapat/Documents/Coding_Time/J/PROG_METH/Lab_2_2021_2_(ZERG_CHESS)█████████&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="JUnit" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-17.0.4.jdk/Contents/Home" />
-      <option name="MAIN_CLASS_NAME" value="" />
+  <component name="RunManager" selected="JUnit.test.grader in 2110215_Lab2_2022_1_6430082021_Yanapat">
+    <configuration name="BaseUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.BaseUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseUnitTest.testAttackFlying" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab2_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.BaseUnitTest" />
+      <option name="METHOD_NAME" value="testAttackFlying" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlyingUnitTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="2110215_Lab2_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.FlyingUnitTest" />
       <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="directory" />
-      <option name="VM_PARAMETERS" value="-ea$ClipboardContent$$MAVEN_REPOSITORY$" />
-      <dir value="$PROJECT_DIR$/src/test/grader" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Lab 2 2021-2" />
+    <configuration name="test.grader in 2110215_Lab2_2022_1_6430082021_Yanapat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab2_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Lab 2 2021-2" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.grader in 2110215_Lab2_2022_1_6430082021_Yanapat" />
+        <item itemvalue="JUnit.BaseUnitTest.testAttackFlying" />
+        <item itemvalue="JUnit.BaseUnitTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="763bec8e-5320-44bc-a929-78515993c303" name="Changes" comment="" />
-      <created>1663002213158</created>
+      <changelist id="3cad0043-b5c7-47ad-99bd-de76bc51b957" name="Changes" comment="" />
+      <created>1663302107876</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663002213158</updated>
-      <workItem from="1663002215291" duration="1379000" />
-      <workItem from="1663004129823" duration="199000" />
-      <workItem from="1663004332278" duration="967000" />
-      <workItem from="1663036180370" duration="854000" />
-      <workItem from="1663037169708" duration="1176000" />
-      <workItem from="1663054905776" duration="616000" />
-      <workItem from="1663096076947" duration="692000" />
-      <workItem from="1663174267311" duration="587000" />
-      <workItem from="1663182586603" duration="388000" />
-      <workItem from="1663295511475" duration="1499000" />
+      <updated>1663302107876</updated>
+      <workItem from="1663302109072" duration="429000" />
+      <workItem from="1663302703253" duration="495000" />
+      <workItem from="1663449614976" duration="258000" />
+      <workItem from="1663693734959" duration="55000" />
+      <workItem from="1663695072826" duration="39000" />
     </task>
     <servers />
   </component>

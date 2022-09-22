@@ -3,9 +3,9 @@ package logic.game;
 import java.util.ArrayList;
 
 import logic.unit.BaseUnit;
-import logic.unit.FlyingUnit;
 import logic.unit.MeleeUnit;
-import logic.unit.RangeUnit;
+import logic.unit.FlyingUnit;
+import logic.unit.RangeUnit;;
 
 public class GameSystem {
 	
@@ -102,3 +102,4 @@ public class GameSystem {
 		}
 	}
 }
+

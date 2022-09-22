@@ -1,13 +1,15 @@
 package logic.unit;
 
+import java.util.ArrayList;
+
 public class BaseUnit {
     private int row;
     private int column;
     private boolean isWhite;
     private String name;
-    private int hp;
-    private int power;
-    private boolean isFlying;
+    protected int hp;
+    protected int power;
+    protected boolean isFlying;
 
     public BaseUnit(int startColumn, int startRow, boolean isWhite, String name) {
         setColumn(startColumn);

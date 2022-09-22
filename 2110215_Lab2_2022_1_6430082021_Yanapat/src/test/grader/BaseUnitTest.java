@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;
 
+import logic.unit.FlyingUnit;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -116,27 +117,27 @@ class BaseUnitTest {
 		
 	}
 	
-//	@Test
-//	void testAttackFlying() { //Add 1 more flying Unit!!!!!!!!!!!!!!!!!!!!!!!!
-//		FlyingUnit mul1 = new FlyingUnit(1,2,false,"mul1");
-//		FlyingUnit mul2 = new FlyingUnit(1,2,false,"mul2");
-//		
-//		larva1.setColumn(1);
-//		larva1.setRow(2);
-//		ArrayList<BaseUnit> targetList = new ArrayList<BaseUnit>();
-//		targetList.add(mul1);
-//		targetList.add(larva2);
-//		targetList.add(mul2);
-//		
-//		
-//		larva1.attack(targetList);
-//		
-//		assertEquals(1,larva2.getHp());
-//		
-//		assertEquals(2,mul1.getHp());
-//		assertEquals(2,mul2.getHp());
-//		
-//	}
+	@Test
+	void testAttackFlying() { //Add 1 more flying Unit!!!!!!!!!!!!!!!!!!!!!!!!
+		FlyingUnit mul1 = new FlyingUnit(1,2,false,"mul1");
+		FlyingUnit mul2 = new FlyingUnit(1,2,false,"mul2");
+
+		larva1.setColumn(1);
+		larva1.setRow(2);
+		ArrayList<BaseUnit> targetList = new ArrayList<BaseUnit>();
+		targetList.add(mul1);
+		targetList.add(larva2);
+		targetList.add(mul2);
+
+
+		larva1.attack(targetList);
+
+		assertEquals(1,larva2.getHp());
+
+		assertEquals(2,mul1.getHp());
+		assertEquals(2,mul2.getHp());
+
+	}
 	
 	@Test
 	void testSetter() {
