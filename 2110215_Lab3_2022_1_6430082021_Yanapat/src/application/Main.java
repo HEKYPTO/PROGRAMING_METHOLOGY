@@ -6,7 +6,6 @@ import application.shop.Shop;
 import player.Player;
 import deck.Deck;
 import card.base.*;
-import card.type.*;
 
 
 public class Main {
