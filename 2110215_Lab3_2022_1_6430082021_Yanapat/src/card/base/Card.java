@@ -2,8 +2,7 @@ package card.base;
 
 //You CAN modify the first line
 public abstract class Card implements Cloneable {
-	
-	//Fields
+
 	private String name;
 	private String flavorText;
 	private int bloodCost;
@@ -50,7 +49,6 @@ public abstract class Card implements Cloneable {
 	}
 	public Object clone()throws CloneNotSupportedException{  
 		return super.clone();  
-		}  
+	}
 
-	
 }

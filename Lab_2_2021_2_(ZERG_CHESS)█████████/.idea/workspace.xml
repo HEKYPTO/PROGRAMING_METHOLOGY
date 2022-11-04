@@ -1,23 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="763bec8e-5320-44bc-a929-78515993c303" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/Lab 1 2021-2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/libraries/junit_4_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/src/logic/unit/BaseUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/src/logic/unit/BaseUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/src/test/grader/BaseUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab2_2022_1_6430082021_Yanapat/src/test/grader/BaseUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/bin/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/bin/application/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/bin/card/base/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/bin/card/base/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/src/card/base/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2110215_Lab3_2022_1_6430082021_Yanapat/src/card/base/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lab 1 2021-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lab 1 2021-2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/2110215_2018_lect01_ex01_student.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/Excercise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/Excercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/exercise01.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../exercise01/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/unit/BaseUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/AwaitContinue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/Lab_4_Instruction_2021_2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/Lab_4_Instruction_2021_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/lib/junit-platform-console-standalone-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/base/Container.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/base/Ingredient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/base/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/container/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/container/Pan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/counter/Bin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/counter/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/counter/Crate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/ingredient/Bread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/ingredient/Egg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/ingredient/Lettuce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/entity/ingredient/Meat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/logic/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/logic/InvalidIngredientException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/logic/LogicUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/logic/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/logic/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/container/DishTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/container/PanTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/BinTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/ChoppingBoardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/CrateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/DishWasherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/StoveTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/counter/base/BaseCounterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/ingredient/EggTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/ingredient/LettuceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__TEMP__/Lab_4_2021_2_toStudent_6239b925c17b7_1/src/test/grader/ingredient/MeatTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +53,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="t4g47o9u" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,18 +71,46 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/zoonyanapat/Documents/Coding_Time/J/PROG_METH/Lab_2_2021_2_(ZERG_CHESS)█████████&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in Lab 1 2021-2">
+    <configuration name="All in Lab 1 2021-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 1 2021-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 1 2021-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.BaseUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JUnit" type="JUnit" factoryName="JUnit">
+      <module name="Lab 1 2021-2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-17.0.4.jdk/Contents/Home" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -60,6 +118,21 @@
       <option name="TEST_OBJECT" value="directory" />
       <option name="VM_PARAMETERS" value="-ea$ClipboardContent$$MAVEN_REPOSITORY$" />
       <dir value="$PROJECT_DIR$/src/test/grader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeleeUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 1 2021-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.MeleeUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,6 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Lab 1 2021-2" />
+        <item itemvalue="JUnit.MeleeUnitTest" />
+        <item itemvalue="JUnit.BaseUnitTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -97,6 +177,9 @@
       <workItem from="1663182586603" duration="388000" />
       <workItem from="1663295511475" duration="1499000" />
       <workItem from="1663693699552" duration="31000" />
+      <workItem from="1665134213915" duration="34000" />
+      <workItem from="1665134316215" duration="367000" />
+      <workItem from="1666370667318" duration="120000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(þïèøùÿÿÿÿ8™åñðº0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç×ø©ûÿÿÿÿ8šåñðº0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡ã·À8›åñðº0
+W
+java:S1854)"<Remove this useless assignment to local variable "opponent".(ªÇÓÆýÿÿÿÿ
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¸ÂÖ8œåñðº0
+H
+java:S1481)"-Remove this unused "opponent" local variable.(ªÇÓÆýÿÿÿÿ
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ÍÔ·Üùÿÿÿÿ8åñðº0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¢³Üó8åñðº0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(£Üö8žåñðº0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(³©çÈøÿÿÿÿ8Ÿåñðº0
+V	java:S1254"<This block of commented-out lines of code should be removed.(¸µ¹‹þÿÿÿÿ
+H
+java:S1144"2Remove this unused private "printDeckList" method.(¯Ñ“ý

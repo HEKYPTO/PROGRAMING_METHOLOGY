@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/junit-platform-console-standalone-1.9.1.jar"/>
+	<classpathentry kind="output" path="out/production/2110215_Lab4_2022_1_6430082021_Yanapat"/>
+</classpath>
