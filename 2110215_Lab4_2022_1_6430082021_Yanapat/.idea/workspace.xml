@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b643c618-1d56-44d1-bc07-58f2721f2274" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bxvkuk1v" />
+  </component>
+  <component name="ProjectId" id="2H4342tuTaPdqAVEtAxa7ye1hiF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/zoonyanapat/Documents/Coding_Time/Java/PROG_METH/2110215_Lab4_2022_1_6430082021_Yanapat",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="2110215_Lab4_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChoppingBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab4_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.counter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader.counter" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.counter.ChoppingBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChoppingBoardTest.testInteractChoppable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab4_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.counter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader.counter" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.counter.ChoppingBoardTest" />
+      <option name="METHOD_NAME" value="testInteractChoppable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab4_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.counter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader.counter" />
+      <option name="MAIN_CLASS_NAME" value="test.grader.counter.StoveTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.grader in 2110215_Lab4_2022_1_6430082021_Yanapat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2110215_Lab4_2022_1_6430082021_Yanapat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.grader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.grader" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.test.grader in 2110215_Lab4_2022_1_6430082021_Yanapat" />
+        <item itemvalue="JUnit.ChoppingBoardTest" />
+        <item itemvalue="JUnit.ChoppingBoardTest.testInteractChoppable" />
+        <item itemvalue="JUnit.StoveTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b643c618-1d56-44d1-bc07-58f2721f2274" name="Changes" comment="" />
+      <created>1667530334155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667530334155</updated>
+      <workItem from="1667530335402" duration="8701000" />
+      <workItem from="1667539614105" duration="381000" />
+      <workItem from="1667540149329" duration="19000" />
+      <workItem from="1667545868806" duration="1910000" />
+      <workItem from="1667547836846" duration="2786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
