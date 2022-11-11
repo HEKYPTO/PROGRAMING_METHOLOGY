@@ -3,6 +3,7 @@ package entity.counter;
 import entity.base.Container;
 import entity.base.Ingredient;
 import entity.base.Item;
+import logic.InvalidIngredientException;
 import logic.Player;
 
 public class Counter {

@@ -82,6 +82,5 @@ public abstract class Container extends Item {
 	public void setCapacity(int capacity) {
 		this.capacity = capacity>maxCapacity?maxCapacity:capacity;
 	}
-
 	
 }

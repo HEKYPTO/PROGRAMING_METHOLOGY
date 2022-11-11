@@ -1,6 +1,6 @@
 package entity.base;
 
-public abstract class Ingredient extends Item{
+public abstract class Ingredient extends Item {
 
 	private boolean isEdible;
 	
@@ -15,5 +15,6 @@ public abstract class Ingredient extends Item{
 
 	public void setEdible(boolean isEdible) {
 		this.isEdible = isEdible;
-	}	
+	}
+
 }
