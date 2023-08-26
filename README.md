@@ -33,8 +33,8 @@ Slide into the wisdom zone with the `__LectureSlides__` directory. It's all abou
 
 Prepare to have your mind blown by the mock assessments:
 
-- `__MockFinal__` (Year: Last Year) – Get a taste of the grand finale!
-- `__MockMidterm__` (Year: Last Year) – Midway madness to keep you sharp!
+- `__MockFinal__` (Year: 2022/1) – Get a taste of the grand finale!
+- `__MockMidterm__` (Year: 2022/1) – Midway madness to keep you sharp!
 
 ## Other Documents 📎
 
